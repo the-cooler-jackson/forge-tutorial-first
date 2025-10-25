@@ -1,5 +1,11 @@
 {
-  "item.tutorial.obsidianshard" : "Obsidian Shard",
-  "item.tutorial.obsidianscalp" : "Obsidian Scalp"
+  "item.tutorialmod.obsidianshard": "Obsidian Shard",
+  "item.tutorialmod.obsidianscalp": "Obsidian Scalp",
+
+  "block.tutorialmod.mahoganyobsidian": "Block of Mahogany Obsidian",
+  "block.tutorialmod.mahoganyobsidianpolished": "Block of Polished Mahogany Obsidian",
+
+  "creativetab.tutorialmod.obisdiannewitems": "New Obsidian Items",
+  "creativetab.tutorialmod.obisdiannewblocksitems": "New Obsidian Blocks"
 
 }
